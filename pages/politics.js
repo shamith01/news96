@@ -1,118 +1,117 @@
 import React from 'react'
 import styles from '../styles/home.module.css'
-import {indexp1,indext1,indexd1,    
-  // `indexp2,indext2,indexd2,
-  // indexp3,indext3,indexd3,
-  // indexp4,indext4,indexd4,
-  // indexp5,indext5,indexd5,
-  // indexp6,indext6,indexd6,
-  // indexp7,indext7,indexd7,
-  // indexp8,indext8,indexd8,`
-} from './contents/indexc'
+import {politicsp1,politicst1,politicsd1,} from '../pages/contents/politicsc'
+  
 
-function index() {
+function politics() {
   return (
-  <>
+    <>
+    
     <div className={styles.main}>
       <div className={styles.image}>
-        <img className={styles.img} src={indexp1} />
+        <img className={styles.img} src={politicsp1} />
       </div>
       <div className={styles.info}>
-        <h2>{indext1}</h2>
+        <h2>{politicst1}</h2>
       </div>
       <div className={styles.desc}>
-        <p>{indexd1}</p>
-      </div>
-    </div>
-{/* 
-    <div className={styles.main}>
-      <div className={styles.image}>
-        <img className={styles.img} src={indexp2} />
-      </div>
-      <div className={styles.info}>
-        <h2>{indext2}</h2>
-      </div>
-      <div className={styles.desc}>
-        <p>{indexd2}</p>
+        <p>{politicsd1}</p>
       </div>
     </div>
 
+{/*     
     <div className={styles.main}>
       <div className={styles.image}>
-        <img className={styles.img} src={indexp3} />
+        <img className={styles.img} src={politicsp2} />
       </div>
       <div className={styles.info}>
-        <h2>{indext3}</h2>
+        <h2>{politicst2}</h2>
       </div>
       <div className={styles.desc}>
-        <p>{indexd3}</p>
+        <p>{politicsd2}</p>
       </div>
     </div>
-
-    <div className={styles.main}>
-      <div className={styles.image}>
-        <img className={styles.img} src={indexp4} />
-      </div>
-      <div className={styles.info}>
-        <h2>{indext4}</h2>
-      </div>
-      <div className={styles.desc}>
-        <p>{indexd4}</p>
-      </div>
-    </div>
-
-    <div className={styles.main}>
-      <div className={styles.image}>
-        <img className={styles.img} src={indexp5} />
-      </div>
-      <div className={styles.info}>
-        <h2>{indext5}</h2>
-      </div>
-      <div className={styles.desc}>
-        <p>{indexd5}</p>
-      </div>
-    </div>
-
-    <div className={styles.main}>
-      <div className={styles.image}>
-        <img className={styles.img} src={indexp6} />
-      </div>
-      <div className={styles.info}>
-        <h2>{indext6}</h2>
-      </div>
-      <div className={styles.desc}>
-        <p>{indexd6}</p>
-      </div>
-    </div>
-
-    <div className={styles.main}>
-      <div className={styles.image}>
-        <img className={styles.img} src={indexp7} />
-      </div>
-      <div className={styles.info}>
-        <h2>{indext7}</h2>
-      </div>
-      <div className={styles.desc}>
-        <p>{indexd7}</p>
-      </div>
-    </div>
-
-    <div className={styles.main}>
-      <div className={styles.image}>
-        <img className={styles.img} src={indexp8} />
-      </div>
-      <div className={styles.info}>
-        <h2>{indext8}</h2>
-      </div>
-      <div className={styles.desc}>
-        <p>{indexd8}</p>
-      </div>
-    </div> */}
-
 
     
+    <div className={styles.main}>
+      <div className={styles.image}>
+        <img className={styles.img} src={politicsp3} />
+      </div>
+      <div className={styles.info}>
+        <h2>{politicst3}</h2>
+      </div>
+      <div className={styles.desc}>
+        <p>{politicsd3}</p>
+      </div>
+    </div>
+
+    
+    <div className={styles.main}>
+      <div className={styles.image}>
+        <img className={styles.img} src={politicsp4} />
+      </div>
+      <div className={styles.info}>
+        <h2>{politicst4}</h2>
+      </div>
+      <div className={styles.desc}>
+        <p>{politicsd4}</p>
+      </div>
+    </div>
+
+    
+    <div className={styles.main}>
+      <div className={styles.image}>
+        <img className={styles.img} src={politicsp5} />
+      </div>
+      <div className={styles.info}>
+        <h2>{politicst5}</h2>
+      </div>
+      <div className={styles.desc}>
+        <p>{politicsd5}</p>
+      </div>
+    </div>
+
+    
+    <div className={styles.main}>
+      <div className={styles.image}>
+        <img className={styles.img} src={politicsp6} />
+      </div>
+      <div className={styles.info}>
+        <h2>{politicst6}</h2>
+      </div>
+      <div className={styles.desc}>
+        <p>{politicsd6}</p>
+      </div>
+    </div>
+
+    
+    <div className={styles.main}>
+      <div className={styles.image}>
+        <img className={styles.img} src={politicsp7} />
+      </div>
+      <div className={styles.info}>
+        <h2>{politicst7}</h2>
+      </div>
+      <div className={styles.desc}>
+        <p>{politicsd7}</p>
+      </div>
+    </div>
+
+    
+    <div className={styles.main}>
+      <div className={styles.image}>
+        <img className={styles.img} src={politicsp8} />
+      </div>
+      <div className={styles.info}>
+        <h2>{politicst8}</h2>
+      </div>
+      <div className={styles.desc}>
+        <p>{politicsd8}</p>
+      </div>
+    </div>
+     */}
     </>
   )
 }
 
-export default index
+export default politics

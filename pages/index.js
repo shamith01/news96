@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from '../styles/home.module.css'
+import Image from 'next/image'
 import {indexp1,indext1,indexd1,    
   // `indexp2,indext2,indexd2,
   // indexp3,indext3,indexd3,
@@ -15,7 +16,8 @@ function index() {
   <>
     <div className={styles.main}>
       <div className={styles.image}>
-        <img className={styles.img} src={indexp1} />
+        <Image className={styles.img} src={indexp1} alt={'hlo'} /> 
+          
       </div>
       <div className={styles.info}>
         <h2>{indext1}</h2>

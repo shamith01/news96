@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from '../styles/sports.module.css'
+import Image from 'next/image'
 import {sportsp1,sportst1,sportsd1,
   // `sportsp2,sportst2,sportsd2,
   // sportsp3,sportst3,sportsd3,
@@ -16,7 +17,7 @@ function sports() {
     
     <div className={styles.main}>
       <div className={styles.image}>
-        <img className={styles.img} src={sportsp1} />
+       <Image className={styles.img} src={sportsp1} alt={'hi'} />
       </div>
       <div className={styles.info}>
         <h2>{sportst1}</h2>

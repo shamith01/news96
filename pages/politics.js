@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from '../styles/politics.module.css'
+import Image from 'next/image'
 import {politicsp1,politicst1,politicsd1,} from '../pages/contents/politicsc'
   
 
@@ -9,7 +10,7 @@ function politics() {
     
     <div className={styles.main}>
       <div className={styles.image}>
-        <img className={styles.img} src={politicsp1} />
+         <Image className={styles.img} src={politicsp1}  alt={'hi'} />
       </div>
       <div className={styles.info}>
         <h2>{politicst1}</h2>

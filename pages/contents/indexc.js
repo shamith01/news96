@@ -1,7 +1,7 @@
 import React from 'react'
 
 // home1
-const indexp1=`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJBTWA5lNEEnlETHk3UpufvsqD7kJ8o-ehA&usqp=CAU`;
+const indexp1='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJBTWA5lNEEnlETHk3UpufvsqD7kJ8o-ehA&usqp=CAU';
 const indext1='ISRO successfully conducts landing experiment of the Reusable Launch Vehicle';
 const indexd1=`The Indian Space Research Organisation (ISRO) on Sunday successfully carried out the landing experiment of the Reusable Launch Vehicle-Technology Demonstration (RLV-TD) programme at the Aeronautical Test Range in Challakere, Chitradurga.
 

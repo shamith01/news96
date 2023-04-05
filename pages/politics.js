@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/home.module.css'
+import styles from '../styles/politics.module.css'
 import {politicsp1,politicst1,politicsd1,} from '../pages/contents/politicsc'
   
 

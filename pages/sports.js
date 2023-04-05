@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/home.module.css'
+import styles from '../styles/sports.module.css'
 import {sportsp1,sportst1,sportsd1,
   // `sportsp2,sportst2,sportsd2,
   // sportsp3,sportst3,sportsd3,

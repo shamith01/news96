@@ -10,7 +10,7 @@ function politics() {
     
     <div className={styles.main}>
       <div className={styles.image}>
-         <Image className={styles.img} src={politicsp1}  alt={'hi'} />
+         <img className={styles.img} src={politicsp1}  alt={'hi'} />
       </div>
       <div className={styles.info}>
         <h2>{politicst1}</h2>

@@ -17,7 +17,7 @@ function sports() {
     
     <div className={styles.main}>
       <div className={styles.image}>
-       <Image className={styles.img} src={sportsp1} alt={'hi'} />
+       <img className={styles.img} src={sportsp1} alt={'hi'} />
       </div>
       <div className={styles.info}>
         <h2>{sportst1}</h2>

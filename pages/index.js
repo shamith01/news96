@@ -16,7 +16,7 @@ function index() {
   <>
     <div className={styles.main}>
       <div className={styles.image}>
-        <Image className={styles.img} src={indexp1} alt={'hlo'} /> 
+        <img className={styles.img} src={indexp1}  alt={'hlo'} /> 
           
       </div>
       <div className={styles.info}>

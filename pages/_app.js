@@ -9,7 +9,6 @@ export default function App({ Component, pageProps }) {
         <title>news96</title>
         <link rel="icon" type="image/x-icon" href="/image/favicon.ico" />
         <meta name="description" content="get realtime news updates" />
-        {/* <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> */}
       </Head>
     
 

@@ -18,7 +18,6 @@ function index() {
     <Head>
       <title>news96</title>
       <meta name="description" content="get updated with the latest news" />
-      {/* <link rel="icon" href="favicon.ico" type="image/x-icon" /> */}
     </Head>
     <div className={styles.main}>
       <div className={styles.image}>

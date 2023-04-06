@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/sports.module.css'
+import styles from '../styles/index.module.css'
 import Image from 'next/image'
 import {sportsp1,sportst1,sportsd1,
   // `sportsp2,sportst2,sportsd2,

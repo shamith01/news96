@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/home.module.css'
+import styles from '../styles/index.module.css'
 import Image from 'next/image'
 import {indexp1,indext1,indexd1,    
   // `indexp2,indext2,indexd2,

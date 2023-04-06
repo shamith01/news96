@@ -11,9 +11,6 @@ module.exports = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
-}
-
-module.exports = {
   webpack: (
     config,
     { buildId, dev, isServer, defaultLoaders, nextRuntime, webpack }

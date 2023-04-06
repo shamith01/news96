@@ -9,7 +9,7 @@ import {indexp1,indext1,indexd1,
   // indexp6,indext6,indexd6,
   // indexp7,indext7,indexd7,
   // indexp8,indext8,indexd8,`
-} from './contents/indexc'
+} from '../contents/indexc'
 
 function index() {
   return (

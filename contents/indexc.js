@@ -44,7 +44,7 @@ const indexp8='';
 const indext8='';
 const indexd8='';
 
-export {indexp1,indext1,indexd1,    
+export {indexp1,indext1,indexd1,};  
 //    ` indexp2,indext2,indexd2,
 //     indexp3,indext3,indexd3,
 //     indexp4,indext4,indexd4,
@@ -53,4 +53,3 @@ export {indexp1,indext1,indexd1,
 //     indexp7,indext7,indexd7,
 //     indexp8,indext8,indexd8,`
 
-};

@@ -9,7 +9,7 @@ import {sportsp1,sportst1,sportsd1,
   // sportsp6,sportst6,sportsd6,
   // sportsp7,sportst7,sportsd7,
   // sportsp8,sportst8,sportsd8,`
-} from '../pages/contents/sportsc'
+} from '../contents/sportsc'
 
 function sports() {
   return (

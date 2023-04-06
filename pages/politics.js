@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from '../styles/politics.module.css'
 import Image from 'next/image'
-import {politicsp1,politicst1,politicsd1,} from '../pages/contents/politicsc'
+import {politicsp1,politicst1,politicsd1,} from '../contents/politicsc'
   
 
 function politics() {

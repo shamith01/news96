@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from '../styles/index.module.css'
 import Image from 'next/image'
+import Head from 'next/head'
 import {indexp1,indext1,indexd1,    
   // `indexp2,indext2,indexd2,
   // indexp3,indext3,indexd3,
@@ -13,7 +14,11 @@ import {indexp1,indext1,indexd1,
 
 function index() {
   return (
-  <>
+    <>
+    <Head>
+      <title>news96</title>
+      <meta name="description" content="get updated with the latest news" />
+    </Head>
     <div className={styles.main}>
       <div className={styles.image}>
         <img className={styles.img} src={indexp1}  alt={'hlo'} /> 

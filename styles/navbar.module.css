@@ -107,7 +107,7 @@
     .links:hover{
         background: rgb(187, 183, 183);
         padding: 0.2rem;
-        text-shadow: 2px 2px 3px black;
+        text-shadow: 2px 2px 2px black;
         border-radius: 5px;
         /* font-size: small; */
     }
@@ -173,7 +173,7 @@
     .links:hover{
         background: rgb(187, 183, 183);
         padding: 0.2rem;
-        text-shadow: 2px 2px 3px black;
+        text-shadow: 2px 2px 2px black;
         border-radius: 5px;
         /* font-size: small; */
     }

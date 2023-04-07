@@ -12,6 +12,7 @@ function Navbar() {
         <Link className={styles.links} href="/">home</Link>
         <Link className={styles.links} href="/politics">politics</Link>
         <Link className={styles.links} href="/sports">sports</Link>
+        <Link className={styles.links} href="/contact">ContactUs</Link>
       </div>
     </div>
     <div className={styles.div}>

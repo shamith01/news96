@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from '../styles/index.module.css'
+import Head from 'next/head'
 import Image from 'next/image'
 import {sportsp1,sportst1,sportsd1,
   // `sportsp2,sportst2,sportsd2,
@@ -14,6 +15,10 @@ import {sportsp1,sportst1,sportsd1,
 function sports() {
   return (
     <>
+     <Head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
+     crossorigin="anonymous"></script>
+    </Head>
     
     <div className={styles.main}>
       <div className={styles.image}>

@@ -18,6 +18,8 @@ function index() {
     <Head>
       <title>news96</title>
       <meta name="description" content="get updated with the latest news" />
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
+     crossorigin="anonymous"></script>
     </Head>
     <div className={styles.main}>
       <div className={styles.info}>

@@ -1,4 +1,5 @@
 import React from 'react'
+import Head from 'next/head'
 import styles from '../styles/index.module.css'
 import Image from 'next/image'
 import {politicsp1,politicst1,politicsd1,} from '../contents/politicsc'
@@ -7,6 +8,10 @@ import {politicsp1,politicst1,politicsd1,} from '../contents/politicsc'
 function politics() {
   return (
     <>
+    <Head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
+     crossorigin="anonymous"></script>
+    </Head>
     
     <div className={styles.main}>
       <div className={styles.image}>

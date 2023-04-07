@@ -9,6 +9,8 @@ export default function App({ Component, pageProps }) {
         <title>news96</title>
         <link rel="icon" type="image/x-icon" href="/image/favicon.ico" />
         <meta name="description" content="get realtime news updates" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
+     crossorigin="anonymous"></script>
       </Head>
     
 

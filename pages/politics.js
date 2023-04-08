@@ -9,6 +9,11 @@ function politics() {
   return (
     <>
     <Head>
+      <title>politics || news96</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+      <meta name="description" content="get latest news update about indian politics,g20 summit" />
+      <meta name="keywords" content="politics,indian politicians,indian politics,politics india,BJP,bjp,Congress,Indian elections,indian elections,election,voting,aap,aam admi party,news96,news96.tech" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
      crossorigin="anonymous"></script>
     </Head>

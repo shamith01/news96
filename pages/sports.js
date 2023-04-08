@@ -16,6 +16,11 @@ function sports() {
   return (
     <>
      <Head>
+      <title>sports||news96</title>
+      <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="latest sports news updates,ipl updates,cricket updates," />
+      <meta name="keywords" content="virat kholi,Rcb,csk,mi,news96,news96.tech,ipl,rcb,football,badminton,basket ball" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
      crossorigin="anonymous"></script>
     </Head>

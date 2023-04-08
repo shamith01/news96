@@ -18,6 +18,7 @@ function sports() {
      <Head>
       <title>sports||news96</title>
       <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+      <meta name="author" content="shamith" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta name="description" content="latest sports news updates,ipl updates,cricket updates," />
       <meta name="keywords" content="virat kholi,Rcb,csk,mi,news96,news96.tech,ipl,rcb,football,badminton,basket ball" />

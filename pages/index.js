@@ -18,6 +18,7 @@ function index() {
     <Head>
       <title>news96</title>
       <meta name="description" content="get updated with the latest news" />
+      <meta name="author" content="shamith" />
       <meta name="keywords" content="trending news,accident news,ipl ,cricket,vollyball news,live karnataka,news96,news96.tech" />
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
      crossorigin="anonymous"></script>

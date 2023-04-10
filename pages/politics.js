@@ -18,6 +18,8 @@ function politics() {
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
      crossorigin="anonymous"></script>
     </Head>
+    <h1 className={styles.h1}>News96 politics updates</h1>
+    
     
     <div className={styles.main}>
       <div className={styles.image}>

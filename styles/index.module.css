@@ -1,3 +1,16 @@
+.h1{
+    width: max-content;
+    font-weight: bold;
+    font-size: 20px;
+    color: #000;
+    margin: 0px auto 16px auto;
+    text-align: center;
+    padding: 5px;
+    box-shadow: 2px 2px 10px black;
+    font-family: monospace  ;
+    text-shadow: 0px 5px 5px rgb(41, 40, 40);
+}
+
 .main{
     width: 100%;
     height: max-content;
@@ -43,6 +56,9 @@
     font-family: serif;
 
 }
+
+
+
 
 
 
@@ -107,6 +123,21 @@
 
 
 @media only screen and (min-width:640px) {
+    .h1{
+        width: max-content;
+        font-weight: bold;
+        font-size: 30px;
+        color: #000;
+        margin: 0px auto 10px auto;
+        text-align: center;
+        padding: 5px;
+        box-shadow: 2px 2px 10px black;
+        font-family: monospace  ;
+        text-shadow: 2px 5px 5px rgb(41, 40, 40);
+    }
+
+
+
     .main{
         width: 60%;
         height: max-content;
@@ -147,6 +178,8 @@
     }
     
 }
+
+
 
 @media only screen and (min-width:950px) {
     .main{
@@ -195,6 +228,21 @@
 }
 
 @media only screen and (min-width:1024px) {
+    .h1{
+        width: max-content;
+        font-weight: bold;
+        font-size: 50px;
+        color: #000;
+        margin: 0px auto 20px auto;
+        text-align: center;
+        padding: 5px;
+        box-shadow: 2px 2px 10px black;
+        font-family: monospace  ;
+        text-shadow: 2px 5px 5px rgb(41, 40, 40);
+    }
+
+
+
      .main{
         width: 60%;
         height: max-content;
@@ -230,6 +278,18 @@
 }
 
 @media only screen and (min-width:1500px) {
+    .h1{
+        width: max-content;
+        font-weight: bold;
+        font-size: 70px;
+        color: #000;
+        margin: 0px auto 10px auto;
+        text-align: center;
+        padding: 5px;
+        box-shadow: 2px 2px 10px black;
+        font-family: monospace  ;
+        text-shadow: 2px 5px 5px rgb(41, 40, 40);
+    }
     .main{
         width: 60%;
         height: max-content;

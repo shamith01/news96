@@ -23,9 +23,10 @@ function index() {
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4700790597407744"
      crossorigin="anonymous"></script>
     </Head>
+    <h1 className={styles.h1}>News96 top level updates</h1>
     <div className={styles.main}>
       <div className={styles.info}>
-        <h1>{indext1}</h1>
+        <h2>{indext1}</h2>
       </div>
       <div className={styles.image}>
         <img className={styles.img} src={indexp1}  alt={'img'} /> 
